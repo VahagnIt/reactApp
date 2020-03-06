@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "admin@gmail.com",
+      "password": "admin123",
+      "role": 1
+    },
+    {
+      "login": "qewwwq@mail.ru",
+      "password": "vfdzxv",
+      "role": 1,
+      "id": 2
+    },
+    {
+      "login": "qweq@mail.ru",
+      "password": "123456",
+      "role": 1,
+      "id": 4
+    },
+    {
+      "login": "vahagaramyan@gmail.com",
+      "password": "123123123",
+      "role": 1,
+      "id": 5
+    }
+  ],
+  "members": [
+    {
+      "id": "1",
+      "name": "Jeff Bezos",
+      "profession": "President of Amazon",
+      "info": "Some quick example text to build on the card title and make up the bulk of the card\\'s content.",
+      "img": "/images/416x416.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Bill Gates",
+      "profession": "Software Developer",
+      "info": "Some quick example text to build on the card title and make up the bulk of the card\\'s content.",
+      "img": "/images/bill.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Mark Zuckerberg",
+      "profession": "Chief Executive Officer",
+      "info": "Some quick example text to build on the card title and make up the bulk of the card\\'s content.",
+      "img": "/images/mark-zuckerberg-barcelona-march-.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Steve Jobs",
+      "profession": "Co-founder of Apple",
+      "info": "Some quick example text to build on the card title and make up the bulk of the card\\'s content.",
+      "img": "/images/stevejpg.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "id": "4",
+      "icon": "fa fa-share-alt",
+      "title": "Title1",
+      "info": "Some quick example text to build on the card title an make up the bulk."
+    },
+    {
+      "id": "2",
+      "icon": "fa fa-share-alt",
+      "title": "Title1",
+      "info": "Some quick example text to build on the card title an make up the bulk."
+    }
+  ],
+  "layers": [
+    {
+      "type": "1",
+      "img": "/images/burger/topBred.png",
+      "name": "Հաց վերևի",
+      "price": "100"
+    },
+    {
+      "type": "2",
+      "img": "/images/burger/kaxamb.png",
+      "name": "Կաղամբ 1-րդ տեսակի",
+      "price": "200"
+    },
+    {
+      "type": "3",
+      "img": "/images/burger/kaxamb2.png",
+      "name": "Կաղամբ 2-րդ տեսակի",
+      "price": "300"
+    },
+    {
+      "type": "4",
+      "img": "/images/burger/cheese.png",
+      "name": "Պանիր",
+      "price": "400"
+    },
+    {
+      "type": "5",
+      "img": "/images/burger/meet.png",
+      "name": "Միս",
+      "price": "500"
+    },
+    {
+      "type": "6",
+      "img": "/images/burger/kotlet.png",
+      "name": "Կոտլետ",
+      "price": "600"
+    },
+    {
+      "type": "7",
+      "img": "/images/burger/bottomBred.png",
+      "name": "Հաց Ներքևի",
+      "price": "700"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.memberDetail{
+    background: #cccc;
+    margin-top: 30px;
+    margin-left: 15px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+.block1, .block2{
+    display: inline-block;
+}
+.block2{
+    vertical-align: middle;
+}

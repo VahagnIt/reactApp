@@ -1,0 +1,36 @@
+.projectBlock{
+    padding-bottom: 50px;
+}
+.teamBlockMain{
+    background: #cccc;
+    width: 100%;
+    display: flex;
+    padding: 40px 15px;
+}
+.titleBlock{
+    margin-bottom: 30px;
+    margin-top: 15px;
+    color: white;
+}
+.card-body{
+    text-align: left;
+    background: url("/new-app/public/images/photo-wall.jpg");
+}
+.projectBlock .card-img-top{
+    object-fit: cover;
+    background: url("/new-app/public/images/photo-wall.jpg");
+}
+@media only screen and (max-width: 991px){
+    .teamBlockMain{
+        text-align: -webkit-center;
+        display: block;
+    }
+    .teamBlockMain > div{
+        margin-bottom: 20px;
+    }
+}
+@media only screen and (max-width: 767px){
+    .projectBlock .card-img-top {
+        object-fit: contain;
+    }
+}

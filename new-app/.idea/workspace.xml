@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa99bc39-c1dd-40d7-a7e7-9a1eb2bc6c70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Car/Car.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Car/Car.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Car/Car.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Counter2/Counter2.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Header/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Header/Header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Header/MenuItem/MenuItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Modal/Modal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Redux/Redux.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Redux/actions/action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Redux/actions/actionType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Redux/actions/todoAction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Redux/reducers/Counter1Reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Redux/reducers/Counter2Reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Redux/reducers/todoReduces.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Redux/rootReducers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Routing/About/About.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Routing/Car/Car.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Routing/Car/Car.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Routing/Car/Single/CarDetail/CarDetail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Routing/Car/Single/Single.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Routing/Contact/Contact.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Routing/Routing.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Routing/Routing.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/Color/Button/Button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/Color/Color.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/Counter/Counter.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/ErrorBundary/ErrorBundary.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/ImageUpload/ImageUpload.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/ImageUpload/ImageUpload.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/List/List.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/List/List.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/PureComponent/PureComponent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/ReturnComponent/ReturnComponent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/ToDo.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/ToDo.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoList/WithClass/WithClass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoRedux/List/List.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoRedux/List/List.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoRedux/ToDo.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ToDoRedux/ToDo.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/services/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#102#150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="new-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa99bc39-c1dd-40d7-a7e7-9a1eb2bc6c70" name="Default Changelist" comment="" />
+      <created>1583476870046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583476870046</updated>
+      <workItem from="1583476871415" duration="1571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1571000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-118" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Main/Main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Redux/rootReducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Redux/actions/actionType.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/projectData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Redux/actions/action.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Redux/reducers/projetsReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#102#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

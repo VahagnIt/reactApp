@@ -1,0 +1,13 @@
+.projectList{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.projectList .list input{
+    width: 100%;
+}
+.activeInput{
+    display: block!important;
+}
+.notActiveInput{
+    display: none!important;
+}

@@ -1,0 +1,24 @@
+.projectBlock{
+    /*margin-top: 50px;*/
+}
+.titleBlock{
+    /*border-radius: 25px;*/
+    /*border: 1px solid #ccc;*/
+    margin-bottom: 30px;
+    margin-top: 15px;
+    color: white;
+}
+.shareIcon{
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.shareIcon i{
+    font-size: 20px;
+}
+.card-body{
+    text-align: left;
+}
+.projectBlock .col-md-4 .card{
+    margin-bottom: 25px;
+}

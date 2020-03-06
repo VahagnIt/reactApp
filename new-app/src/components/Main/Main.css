@@ -1,0 +1,5 @@
+main{
+    background: url("./../../photo-wall.jpg");
+    background-size: contain;
+    background-repeat: unset;
+}

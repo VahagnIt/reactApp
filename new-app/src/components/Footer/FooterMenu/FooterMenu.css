@@ -1,0 +1,17 @@
+.footerMenu{
+    /*margin-top: 50px;*/
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: rgba(0,0,0,0.65);
+}
+.footerMenu ul{
+    list-style: none;
+    padding-left: 0;
+}
+.footerMenu ul li{
+    text-align: center;
+    color: white;
+}
+.footerMenu ul li h5{
+    color: #3dd635;
+}

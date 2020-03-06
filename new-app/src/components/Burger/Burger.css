@@ -1,0 +1,18 @@
+.burger{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.burgerBox .col-md-6{
+    display: inline-block;
+    text-align: center;
+}
+.burgerBox .col-md-4{
+    display: inline-block;
+    text-align: left;
+}
+.burger img{
+    width: 100%;
+}
+.showList > div{
+    margin-bottom: -30px;
+}
